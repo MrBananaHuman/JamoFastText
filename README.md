@@ -1,7 +1,7 @@
 # JamoFastText
 Korean Jamo (Jaso) FastText Java version
 
-This project is implamented from JFastText (https://github.com/vinhkhuc/JFastText)
+This project is implamented from Java FastText (https://github.com/sszuev/fastText_java)
 
 Citation.
 
