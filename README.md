@@ -6,6 +6,8 @@ This project is implamented from Java FastText (https://github.com/sszuev/fastTe
 한국어 자모 (자소) 단위 FastText 워드 임베딩
 
 Citation.
+
 (https://link.springer.com/chapter/10.1007/978-3-030-12385-7_3)
+
 KIM, Seonhghyun, et al. Korean-Optimized Word Representations for Out-of-Vocabulary Problems Caused by Misspelling Using Sub-character Information. In: Future of Information and Communication Conference. Springer, Cham, 2019. p. 25-32.
 
